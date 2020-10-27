@@ -36,26 +36,48 @@ https://codepen.io/princeali415/pen/GRqmVeL?editors=1100
         Any element you want.
 
     12. How many times can I use the same class on a page? 
+        As many times as you want.
 
     13. How do I get my link to open in a new tab?
+         add -> target = "_blank"
 
     14. What is the alt attribute in the image tag used for? 
+        To describe the image, this is for readability and is good practice.
 
     15. How do I reference an id?
+        You do this in css with a #.
 
     16. What is the difference between a section and a div
+        Section tag defines sections of text, div tag defines containers within the html document.
 
     17. What is CSS used for? 
+        CSS, or cascading style sheets is used to style the webpage.
 
     18. How to we select an element? Example - every h2 on the page
+        We select an element as follows. Ex h2 ->
+
+        h2 {
+
+        }
 
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
+        Id is for a specific case while class can be used to style many elements of the page. You can use a class to 
+        add padding around a number of images. You can use id to style the paragraph of an important quote in a diffrent 
+        color so it stands out.
 
     20. How do we select classes in CSS?
+        we can select classes by writing a period before the classname in css. ex. ->
+        .classname{
+
+        }
 
     21. How do we select a p element with a single class of “human””?
+        p.human {
+
+        }
 
     22. What is a parent child selector? When would this be useful? 
+        
 
     23. How do you select all links within a div with the class of sidebar?
 
@@ -86,7 +108,7 @@ https://codepen.io/princeali415/pen/GRqmVeL?editors=1100
     36. What is the command we would use to push our repo up to github? 
 
     37. Walk me through Lambda's git flow. 
-    
+
 
 Stretch Questions
 
