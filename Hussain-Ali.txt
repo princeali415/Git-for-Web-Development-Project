@@ -3,42 +3,90 @@ https://codepen.io/princeali415/pen/GRqmVeL?editors=1100
 
 
     1. What is Semantic HTML? 
+        Used for SEO, accessibility, and for screen readers.
+
     2. What is HTML used for? 
+        Structure a webpage.
+
     3. What is an attribute and where do we put it? 
+        Attributes provides us with more information on HTML elements, we can put them in any HTML elements.
+
     4. What is the h1 tag used for? How many times should I use it on a page?
+        The h1 tag indicates the most important heading of the webpage. We should only use it once.
+
     5. Name two tags that have required attributes
+        The image tag and the form tag.
+
     6. What do we put in the head of our HTML document? 
+        metadata we want to include in our webapage
+
     7. What is an id? 
+        Unique id that we give to a html element to link it to a specific style we created in CSS.
+
     8. What elements can I add an id to? 
+        We can add them to all elements.
+
     9. How many times can I use the same id on a page? 
+        Only once.
+
     10. What is a class? 
+        links a specific css style to one or more html elements.
+
     11. What elements can I add a class to? 
+        Any element you want.
+
     12. How many times can I use the same class on a page? 
+
     13. How do I get my link to open in a new tab?
+
     14. What is the alt attribute in the image tag used for? 
+
     15. How do I reference an id?
+
     16. What is the difference between a section and a div
+
     17. What is CSS used for? 
+
     18. How to we select an element? Example - every h2 on the page
+
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
+
     20. How do we select classes in CSS?
+
     21. How do we select a p element with a single class of “human””?
+
     22. What is a parent child selector? When would this be useful? 
+
     23. How do you select all links within a div with the class of sidebar?
+
     24. What is a pseudo selector?
+
     25. What do we use the change the spacing between lines?
+
     26. What do we use to change the spacing between letters?
+
     27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
+
     28. How do I add a 1px border around my div that is dotted and black?
+
     29. How do I select everything on the page? 
+
     30. How do I write a comment in CSS?
+
     31. How do I find out what file I am in, when I am using the command line? 
+
     32. Using the command line - how do I see a list of files/folders in my current folder?
+
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
+
     34. Why should I use version control? 
+
     35. How often should I commit to github?
+
     36. What is the command we would use to push our repo up to github? 
+
     37. Walk me through Lambda's git flow. 
+    
 
 Stretch Questions
 
